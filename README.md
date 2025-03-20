@@ -1,4 +1,4 @@
-# Projet Labyrinthe - Génération et Résolution
+# Maze Runner - Génération et Résolution
 
 Ce projet implémente un **générateur et un solveur de labyrinthe** en C++. Le labyrinthe est généré de manière aléatoire et peut être résolu en utilisant **l'algorithme A\***. Ce projet est avant tout un exercice personnel, sans objectif spécifique, visant à renforcer mes compétences en C++, en algorithmie et en gestion des structures de données.
 
