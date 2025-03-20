@@ -47,7 +47,7 @@ Ce projet implémente un **générateur et un solveur de labyrinthe** en C++. Le
 Utilisez `g++` pour compiler le projet (dans le dossier "src") :
 
 ```sh
-git remote add origin https://github.com/jonathannzt/maze_runner.git
+g++ main.cpp Maze.cpp MazeGenerator.cpp MazeSolver.cpp -o MazeRunner
 ```
 
 ### Exécution
