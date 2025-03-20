@@ -21,5 +21,7 @@ int main() {
         std::cout << "Aucun chemin trouve." << std::endl;
     }
 
+    std::cin.get();
+
     return 0;
 }
